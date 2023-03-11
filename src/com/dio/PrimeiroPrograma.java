@@ -6,10 +6,6 @@ public class PrimeiroPrograma {
 
 	
 	public static void main(String[] args) {
-		/*int a = 2;
-		int b = 39;
-		System.out.println("Soma entre A = "+a+" e B = "+b+" igual a: "+(a+b));*/
-		
 		Gato gato = new Gato();
 		Livros livro = new Livros();
 		
