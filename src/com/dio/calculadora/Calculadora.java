@@ -33,7 +33,7 @@ public class Calculadora {
 	}
 	
 	public static double subtrair(double a, double b) {
-		return a - b;
+		return a - b;5
 	}
 	
 	public static double dividir(double a, double b) {
